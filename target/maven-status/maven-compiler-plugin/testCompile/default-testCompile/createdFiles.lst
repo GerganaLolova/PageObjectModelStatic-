@@ -1,0 +1,4 @@
+core\BaseTest.class
+adminarea\negatve\AdminLoginTests.class
+adminarea\positive\AdminDashboardTests.class
+adminarea\positive\AminLoginTests.class

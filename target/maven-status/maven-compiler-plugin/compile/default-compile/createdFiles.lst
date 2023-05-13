@@ -1,0 +1,6 @@
+copmpoments\LeftNavigatinBarComponent.class
+pages\adminarea\AdminLoginPage.class
+copmpoments\HeaderComponent.class
+utils\Browser.class
+pages\adminarea\AdminDashboardPage.class
+core\BasePage.class
